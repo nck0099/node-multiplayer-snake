@@ -1,7 +1,7 @@
 version: '2'
 services:
   snake:
-    image: 'dmension/snake'
+    image: 'nck0099/nck0099:test'
     environment:
       - "PORT:3000"
     ports:
